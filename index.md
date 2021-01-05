@@ -2,7 +2,14 @@
 
 ## Welcome to My User Page!
 
-My name is Elizabeth, and this GitHub account is comprised of projects I worked on while attending [UCSD](https://ucsd.edu/). Languages I learned and used during this period include:
+### Introduction
+
+My name is Elizabeth, and this GitHub account is comprised of projects I worked on while attending [UCSD](https://ucsd.edu/). I was a student of Warren College, and strive to follow the motto:
+> Toward a Life in Balance
+
+### Languages
+
+Languages I learned and used during this period include:
 
 - C
 - **C++**
@@ -13,9 +20,14 @@ My name is Elizabeth, and this GitHub account is comprised of projects I worked 
 
 While obtaining my degree, I attended courses of particular interest to myself within the field of computer science. Some of these included:
 
-- Security
+1. Security
    - Overview course with a focus on historically relevant security issues and common hazards utilized today
-- Machine learning
+2. Machine learning
    - Data collection/analysis, model training, hypothesis development + testing
-- Web development
+3. Web development
    - Javascript, full-stack overview, connection/creation/design of databases
+
+### Further Tasks
+
+- [ ] Regularly update User Page with personal progress
+- [ ] Complete CSE 110!
