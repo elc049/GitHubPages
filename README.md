@@ -1,3 +1,3 @@
 # GitHubPages
 CSE 110 Project
-My favorite coding language is C++.
+My favorite coding language is Python.
