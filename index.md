@@ -18,7 +18,7 @@ Languages I learned and used during this period include:
 - **Python**
 - ARM Assembly
 
-* *Bolded languages are those with significant experience and personal comfort.*
+*Bolded languages are those with significant experience and personal comfort.*
 
 IDEs and code editors I've used:
 
