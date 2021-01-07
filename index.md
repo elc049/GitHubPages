@@ -9,9 +9,9 @@ My name is Elizabeth, and this GitHub account is comprised of projects I worked 
 
 The README for this repository can be found [here](README.md).
 
-[Languages](https://github.com/elc049/GitHubPages/blob/main/index.md#languages)
-[Degree Focus](https://github.com/elc049/GitHubPages/blob/main/index.md#degree-focus)
-[Further Tasks](https://github.com/elc049/GitHubPages/blob/main/index.md#further-tasks)
+- [Languages](https://github.com/elc049/GitHubPages/blob/main/index.md#languages)
+- [Degree Focus](https://github.com/elc049/GitHubPages/blob/main/index.md#degree-focus)
+- [Further Tasks](https://github.com/elc049/GitHubPages/blob/main/index.md#further-tasks)
 
 ### Languages
 
